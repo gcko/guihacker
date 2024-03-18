@@ -5,7 +5,7 @@ Ridiculous output to make you look like an amazing hacker.
 
 Created as a joke for this question on [Code Golf SE](http://codegolf.stackexchange.com/questions/30322/make-it-look-like-im-working)
 
-Added some limited options for customizability
+Added some limited options for customization
 
 * title - change the title to whatever
 * color - give it a css color string and the script will use that color

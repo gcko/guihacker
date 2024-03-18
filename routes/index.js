@@ -1,4 +1,9 @@
+const express = require('express');
+const router = express.Router();
+
 /* GET home page. */
-exports.index = function(req, res){
+router.get('/', (req, res) => {
   res.render('index', { title: 'Hacker Gui' });
-};
+});
+
+module.exports = router;
